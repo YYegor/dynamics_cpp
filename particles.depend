@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1567972253 source:c:\users\egor\dropbox\projects personal\dynamics_cpp\particles\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<time.h>
+	<thread>
+	<chrono>
+
+1565809043 source:c:\dropbox\projects personal\dynamics_cpp\particles\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<time.h>
+	<thread>
+	<chrono>
+
